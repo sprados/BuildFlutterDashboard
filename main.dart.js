@@ -23334,7 +23334,8 @@ break
 case 6:case 1:return A.O(q,r)
 case 2:return A.N(o,r)}})
 return A.P($async$XZ,r)},
-aMx(){return"http://mp.tipre.com:8080/api/v1"},
+aMx(){var s="http://mp.tipre.com:8080/api/v1"
+return s},
 a6n(){var s=0,r=A.Q(t.H),q
 var $async$a6n=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:q=$.t8
